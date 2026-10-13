@@ -1,1 +1,15 @@
-
+cff-version: 1.2.0
+message: If you use this model, please cite it as below.
+authors:
+- family-names: Polanco
+  given-names: Sara
+  orcid: https://orcid.org/0000-0002-1270-4377
+title: Flexural isostatic response of continental-scale deltas to climatically driven
+  sea level changes
+version: '1.0'
+doi: https://doi.org/10.25914/4m82-y773
+date-released: '2026-10-13'
+url:
+- https://mate.science/models/test-polanco-2024-deltas-1/
+- https://github.com/ModelAtlasofTheEarth/test-polanco-2024-deltas-1/
+type: dataset
